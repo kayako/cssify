@@ -1,5 +1,9 @@
 # cssify #
 
+## Kayako Specific
+
+A fork from original repo to transform css using global variables attached to `kayako._Payload`.
+
 A simple Browserify v2 transform for adding required styles to the browser.
 
 # Example
